@@ -1,6 +1,11 @@
 # Boost Converter with MPPT (P&O) in MATLAB Simulink
 
 This project presents the design and simulation of a DC-DC Boost Converter integrated with the Perturb and Observe (P&O) MPPT algorithm for a 4kW Solar PV system.
+## 📊 System Architecture
+
+<p align="center">
+  <img src="Block Diagram.png" width="800"/>
+</p>
 
 ## Features
 - Boost converter design in MATLAB Simulink
